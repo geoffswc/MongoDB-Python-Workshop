@@ -2,11 +2,11 @@
 
 ### Short Description
 
-This tutorial is an introduction to reading accessing JSON data from a MongoDB. Examples involve accessing a MongoDB from a public URI, building a MongoDB locally, running queries, and creating a text inded. 
+This tutorial is an introduction to reading, building, and querying data using MongoDB and the Covid-19 Open Research dataset from the Allen institute. 
+
+https://pages.semanticscholar.org/coronavirus-research
 
 ### Long Description
-
-This tutorial is an introduction to reading, building, and querying data from a MongoDB. 
 
 MongoDB is a document oriented database that makes it possible to build and query collections of JSON documents.
 
