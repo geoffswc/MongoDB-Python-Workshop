@@ -34,10 +34,6 @@ This tutorial consists of a series of notebooks. Further explanatory text is ava
 
 How to use python to connect to and query a public Covid-19 MongoDB,
 
-### Installation and Setup
-
-How to install MongoDB and create a document database through the Unix shell. 
-
 ### CORD-19-Reseach-Data-Set.ipynb
 
 How to install multiple documents into a MongoDB through the mongo command line. How to create and query a text index to search for sub text within a document element. 
@@ -49,6 +45,11 @@ How to create and insert documents into a MongoDB through code. How to query doc
 ### Mongo-Import-Through-Python.ipynb
 
 How to insert JSON multiple documents into a MongoDB documents using Python code. 
+
+## Installation and Setup
+
+For most of the workbooks above, you'll need to install MongoDB and populate a document database with JSON files from the CORD-19 dataset. Instructions are in the CORD-19-Reseach-Data-Set.ipynb workbook.
+
 
 
 
