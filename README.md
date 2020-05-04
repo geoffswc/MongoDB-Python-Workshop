@@ -20,7 +20,7 @@ This tutorial will consist of a series of notebooks and tutorial exercises. Rath
 
 3. Populate a a local MongoDB using pymongo (as opposed to shell commands)
 
-4. Connect to a remote MongoDB through pymongo using the public URI provided through the ATLAS projec
+4. Connect to a remote MongoDB through pymongo using the public URI provided through the ATLAS project
 
 ### Prerequisites
 
