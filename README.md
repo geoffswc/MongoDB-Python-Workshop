@@ -46,9 +46,15 @@ How to create and insert documents into a MongoDB through code. How to query doc
 
 How to insert JSON multiple documents into a MongoDB documents using Python code. 
 
+### Sample-Atlas-DB.ipynb
+
+How to query a MongoDB hosted on Atlas through Python, including basic querying and regex.
+
 ## Installation and Setup
 
-For most of the workbooks above, you'll need to install MongoDB and populate a document database with JSON files from the CORD-19 dataset. Instructions are in the CORD-19-Reseach-Data-Set.ipynb workbook.
+For the Atlas-related notebooks, you'll need to create an Atlas account. Instructions are in the workbooks. 
+
+For the local installation notebooks, you'll need to install MongoDB and populate a document database with JSON files from the CORD-19 dataset. Instructions are in the CORD-19-Reseach-Data-Set.ipynb workbook.
 
 
 
