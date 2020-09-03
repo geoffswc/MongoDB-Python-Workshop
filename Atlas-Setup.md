@@ -1,7 +1,8 @@
-#Atlas-Setup
-
+# Atlas-Setup
 
 This page concatains instructions for setting up and populating a MongoDB on Atlas. You'll query and populate this database through Python in the workshop Jupyter notebooks. 
+
+Note - this is still a very rough draft. I'll refine it, but this is probably better handled through a video, so this page will be notes for a video tutorial rather than a full set of instructions with illustrations. 
 
 ### Create an Atlas account
 
