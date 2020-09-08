@@ -25,7 +25,7 @@ This tutorial is designed for workshop participants who are have some experience
 
 ### Software Installation and Setup
 
-To participate in this workshop, you'll need to be able to run python 3.6 code. This workshop will use Jupyter Notebook, though you can follow along with a different IDE if you prefer.
+To participate in this workshop, you'll need to be able to run python 3.6+ code. This workshop will use Jupyter Notebook, though you can follow along with a different IDE if you prefer.
 
 You will also need to create an Atlas DB account, instantiate a sample database, and upload COVID-19 data to a collection. Instructions for this are in Atlas-Setup.md
 
