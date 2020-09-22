@@ -71,6 +71,10 @@ https://github.com/CSSEGISandData/COVID-19
 
 ### Links to Documentation and Tutorials
 
+MongoDB:
+
+https://www.mongodb.com
+
 MongoDB Reference Manual:
 
 https://docs.mongodb.com/manual/reference/
@@ -83,7 +87,9 @@ Johns Hopkins dataset using Python and Mongo
 
 https://developer.mongodb.com/article/johns-hopkins-university-covid-19-data-atlas#covid19-python
 
+Compass (UI for MongoDB)
 
+https://www.mongodb.com/try/download/compass
 
 
 
