@@ -61,11 +61,11 @@ For the local installation notebooks, you'll need to install MongoDB and populat
 
 ### Links to Datasets
 
-The Covid-19 Research Dataset from the Allen Institute for AI
+Covid-19 Research Dataset from the Allen Institute for AI
 
 https://pages.semanticscholar.org/coronavirus-research
 
-The Covid-19 Dashboard dataset from Johns Hopkins University
+Covid-19 Dashboard dataset from Johns Hopkins University
 
 https://github.com/CSSEGISandData/COVID-19
 
