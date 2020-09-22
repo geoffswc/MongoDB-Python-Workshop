@@ -61,15 +61,19 @@ For the local installation notebooks, you'll need to install MongoDB and populat
 
 ### Links to Datasets
 
-The Covid-19 Research Dataset from the Allen Institute for AI
+Covid-19 Research Dataset from the Allen Institute for AI
 
 https://pages.semanticscholar.org/coronavirus-research
 
-The Covid-19 Dashboard dataset from Johns Hopkins University
+Covid-19 Dashboard dataset from Johns Hopkins University
 
 https://github.com/CSSEGISandData/COVID-19
 
 ### Links to Documentation and Tutorials
+
+MongoDB:
+
+https://www.mongodb.com
 
 MongoDB Reference Manual:
 
@@ -83,7 +87,9 @@ Johns Hopkins dataset using Python and Mongo
 
 https://developer.mongodb.com/article/johns-hopkins-university-covid-19-data-atlas#covid19-python
 
+Compass (UI for MongoDB)
 
+https://www.mongodb.com/try/download/compass
 
 
 
