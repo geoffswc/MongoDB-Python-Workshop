@@ -67,7 +67,8 @@ https://pages.semanticscholar.org/coronavirus-research
 
 Covid-19 Dashboard dataset from Johns Hopkins University
 
-https://github.com/CSSEGISandData/COVID-19
+https://github.com/mongodb-developer/open-data-covid-19
+
 
 ### Links to Documentation and Tutorials
 
