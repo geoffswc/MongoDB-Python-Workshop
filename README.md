@@ -25,6 +25,8 @@ This tutorial is designed for workshop participants who are have some experience
 
 To participate in this workshop, you'll need to be able to run python 3.6+ code. This workshop will use Jupyter Notebook, though you can follow along with a different IDE if you prefer.
 
+Although the focus for this wokshop will be on using Python to query a MongoDB, we will briefly browse a MongoDB collection using the Compass UI. To follow along with that section (optional), you'll want to download the Compass UI at: https://www.mongodb.com/try/download/compass
+
 You will also need to create an Atlas DB account, instantiate a sample database, and upload COVID-19 data to a collection. Instructions for this are in Atlas-Setup.md
 
 ## Workbooks
